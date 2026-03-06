@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-🤓 Architect at Tencent
+🤓 Architect at Tencent 
+
 🇧🇷 Born in Changede, Hunan, China
+
 🇺🇸 Living in Shenzhen, Guangdong, China
 
 ## Find me elsewhere 🌎
 
 🚀 [Site](https://www.cyblogs.com/)
+
 🐦 [Twitter](https://x.com/chengcheng222e)
 
