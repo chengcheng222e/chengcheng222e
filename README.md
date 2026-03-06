@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 🤓 Architect at Tencent 
 
-🇧🇷 Born in Changede, Hunan, China
+🇨🇳 Born in Changede, Hunan, China
 
-🇺🇸 Living in Shenzhen, Guangdong, China
+🇨🇳 Living in Shenzhen, Guangdong, China
 
 ## Find me elsewhere 🌎
 
