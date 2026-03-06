@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **chengcheng222e/chengcheng222e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋
+
+🤓 Architect at Tencent
+🇧🇷 Born in Changede, Hunan, China
+🇺🇸 Living in Shenzhen, Guangdong, China
+
+## Find me elsewhere 🌎
+
+🚀 [Site](https://www.cyblogs.com/)
+🐦 [Twitter](https://x.com/chengcheng222e)
+
